@@ -44,10 +44,11 @@ Please reference the following screenshots for guidance with any changes within 
 
 ### (Demonstration) Using data from Binance
 
+![Alt text] (https://github.com/antonmaliksi/FinTechModule3Challenge/blob/main/Starter_Code/README%20Resources/parent_folder.PNG)
 
+![Alt text] (https://github.com/antonmaliksi/FinTechModule3Challenge/blob/main/Starter_Code/README%20Resources/resources.PNG)
 
-
-
+![Alt text] (https://github.com/antonmaliksi/FinTechModule3Challenge/blob/main/Starter_Code/README%20Resources/using_binance.PNG)
 
 ---
 
